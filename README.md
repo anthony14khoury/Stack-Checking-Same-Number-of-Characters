@@ -1,4 +1,4 @@
-# Stack Checking Same Number of Characters
+# Cheking Same Number of Characters Using a Stack
 
 This is a C++ build using a stack to check if there are the same number of characters in a string.
 Simply, input a word or letter and the program will let you know whether it is true or not.
